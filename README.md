@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gowtham-ravii
-- 👀 I’m interested in frontend and backend developments for machine learning projects.
-- 🌱 I’m currently learning Information Science and Engineering at Bannari Amman Institute of Techonology.
+- 👋 Hi, I’m @gowtham-ravi
+- 🌱 I’m currently pursuing Information Science and Engineering at Bannari Amman Institute of Techonology.
+- 📕 FullStack Development, problem solving, Data Science. 
 - 💞️ I’m looking to collaborate on well reputed companies with good packages.
 - 📫 Ping me at gowthamhsr28@gmail.com/gowthamr.se21@bitsathy.ac.in 
 
