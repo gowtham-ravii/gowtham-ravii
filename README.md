@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gowtham-ravi
-- 🌱 I’m currently pursuing BE Information Science and Engineering at Bannari Amman Institute of Techonology.
-- 📕 FullStack Development, Data Structures and Java, Machine LEarning. 
-- 💞️ I’m looking to collaborate with well reputed companies to explore my skillsets and knowledge.
+- 🌱 BE Information Science and Engineering at Bannari Amman Institute of Techonology.
+- 📕 FullStack Development, Data Structures ,Java, DBMS. 
+- 💞️ I’m seeking a role where I can apply my skills, learn new ones, and contribute to the company's growth.
 - 📫 Ping me at gowthamhsr28@gmail.com/gowthamr.se21@bitsathy.ac.in
 - https://gowtham-ravii.github.io/portfolioGowthamRavi/
 
